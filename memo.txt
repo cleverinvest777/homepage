@@ -1,0 +1,5 @@
+npm install next react react-dom
+
+npm run build
+
+npm run start
